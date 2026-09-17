@@ -1,0 +1,1 @@
+{"name":"still-focus","productName":"Still","version":"1.0.0","description":"A calm, personal focus studio for Windows","main":"main.js","private":true,"scripts":{"test":"node --test tests/*.test.js"}}
